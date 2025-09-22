@@ -1,6 +1,6 @@
 # Running C# 13 Scripts With `dotnet run app.cs` (No Project Files Needed)
 
-This repository (csharp13-scripting-examples) is available with Ziggy Rafiq's book **Running C# 13 Scripts With Dotnet Run App.cs.** available at **[C# Corner](https://www.c-sharpcorner.com/members/ziggy-rafiq)**.
+This repository (csharp13-scripting-examples) is available with Ziggy Rafiq's book **Running C# 13 Scripts With Dotnet Run App.cs.** available at **[C# Corner](https://www.c-sharpcorner.com/ebooks/running-csharp-13-scripts-with-dotnet-run-app-cs-no-project-files-needed)**.
 
 Using the latest .NET 9 SDK features such as top-level statements, global usage, and modern language enhancements, it provides practical examples, templates, and guidance for writing and executing C# 13 scripts without projects.
 
